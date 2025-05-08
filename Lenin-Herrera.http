@@ -1,0 +1,6 @@
+@Lenin_Herrera_HostAddress = http://localhost:5155
+
+GET {{Lenin_Herrera_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
